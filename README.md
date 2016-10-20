@@ -1,25 +1,15 @@
-Sample: bluelist-mqa-android
+Sample: Android-MQA-BlueList (*This is an updated version of bluelist-mqa-android sample on Jazzhub - DevOps*)
 ===
 
-The bluelist-mqa-android sample builds upon the bluelist-base-android sample to integrate with the Mobile Quality Assurance service.
+The Android-MQA-BlueList sample builds upon the bluelist-base-android sample to integrate with the Mobile Quality Assurance service on BlueMix
 
-After you run the sample and add your application key in the code, you can use Mobile Quality Assurance in the bluelist-mqa-android sample to send bug reports, provide feedback, and write log messages to the Mobile Quality Assurance service. 
+After you run the sample and add your application key in the code, you can use Mobile Quality Assurance in the Android-MQA-BlueList sample to send bug reports, provide feedback, and write log messages to the Mobile Quality Assurance service. 
 
 ---
-
-Downloading this sample
----
-
-You can clone the sample from IBM DevOps Services by using the following command:
-
-    git clone https://hub.jazz.net/git/mobilecloud/bluelist-mqa
-
-The bluelist-mqa-android sample is contained within the bluelist-mqa directory that you just created.
-
 Downloading the Mobile Quality Assurance Android SDK
 ---
 
-You can download the Mobile Quality Assurance Android SDK from [Android SDK for download](http://www-01.ibm.com/support/knowledgecenter/SSJML5_6.0.0/com.ibm.mqa.uau.saas.doc/topics/c_AndroidSDKsForDownload.html) in IBM Knowledge Center.
+You can download the Latest Mobile Quality Assurance Android SDK from [Android SDK for download](http://www-01.ibm.com/support/knowledgecenter/SSJML5_6.0.0/com.ibm.mqa.uau.saas.doc/topics/c_AndroidSDKsForDownload.html) in IBM Knowledge Center.
 
 
 Importing this sample into Android Studio
