@@ -5,6 +5,7 @@ The Android-MQA-BlueList sample builds upon the bluelist-base-android sample to 
 
 After you run the sample and add your application key in the code, you can use Mobile Quality Assurance in the Android-MQA-BlueList sample to send bug reports, provide feedback, and write log messages to the Mobile Quality Assurance service. 
 
+![Bluelist Sample](https://github.com/VidyasagarMSC/Android-MQA-BlueList/blob/master/images/Screenshot_1479894603.png)
 ---
 Downloading the Mobile Quality Assurance Android SDK
 ---
@@ -178,12 +179,14 @@ Running the app
 	<br>Mobile Quality Assurance opens the Send Report screen. You can report a bug or submit feedback to Mobile Quality Assurance from this screen.<br>
 
 *Tip: You can shake the physical device to open the Send report screen or use Command ⌘ + M when running in an Android emulator.*
+
 ![Report a bug or Send feedback](https://github.com/VidyasagarMSC/Android-MQA-BlueList/blob/master/images/Screenshot_1479894641.png)
 	
 a. Click **REPORT A BUG** to create a bug report in Mobile Quality Assurance. You can complete the following actions in the Report a bug screen:
 	- Describe the problem.
 	- Edit the screenshot.
 	- Click **Send** to submit the bug report to Mobile Quality Assurance.
+	
 ![Report a Bug](https://github.com/VidyasagarMSC/Android-MQA-BlueList/blob/master/images/Screenshot_1479894707.png)
 	
  b. Click **GIVE FEEDBACK** to submit feedback to Mobile Quality Assurance. You can complete the following actions in the Give feedback screen:
