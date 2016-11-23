@@ -174,12 +174,18 @@ Running the app
 2. Choose a target from **Choose Device** wizard, and then click **OK**. The target can be an emulator or a physical device.
 3. After the bluelist-mqa-android project is launched successfully, click the **Send Report** button to send a report to Mobile Quality Assurance. 
 
-	Mobile Quality Assurance opens the Send Report screen. You can report a bug or submit feedback to Mobile Quality Assurance from this screen. 
+![BlueList Android App](https://github.com/VidyasagarMSC/Android-MQA-BlueList/blob/master/images/Screenshot_1479894637.png =100x20)
+	<br>Mobile Quality Assurance opens the Send Report screen. You can report a bug or submit feedback to Mobile Quality Assurance from this screen.<br>
 	
-	a. Click **REPORT A BUG** to create a bug report in Mobile Quality Assurance. You can complete the following actions in the Report a bug screen:
+	
+![Report a bug or Send feedback](https://github.com/VidyasagarMSC/Android-MQA-BlueList/blob/master/images/Screenshot_1479894641.png)
+	
+a. Click **REPORT A BUG** to create a bug report in Mobile Quality Assurance. You can complete the following actions in the Report a bug screen:
 	- Describe the problem.
 	- Edit the screenshot.
 	- Click **Send** to submit the bug report to Mobile Quality Assurance.
+	
+![BlueList Android App](https://github.com/VidyasagarMSC/Android-MQA-BlueList/blob/master/images/Screenshot_1479894637.png)
 	
  b. Click **GIVE FEEDBACK** to submit feedback to Mobile Quality Assurance. You can complete the following actions in the Give feedback screen:
 	- Enter your feedback.
@@ -187,7 +193,7 @@ Running the app
 	- Choose to include a screenshot.
 	- Click **Send** to submit the feedback to Mobile Quality Assurance.
 
- *Tip: You can shake the physical device to open the Send report screen.*
+ *Tip: You can shake the physical device to open the Send report screen or use Command ⌘ + M when running in an Android emulator.*
 
 Viewing the Mobile Quality Assurance session information in Bluemix
 ---
