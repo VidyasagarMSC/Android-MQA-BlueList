@@ -1,4 +1,4 @@
-Sample: Android-MQA-BlueList (*This is an updated version of bluelist-mqa-android sample on Jazzhub - DevOps*)
+Sample: Android-MQA-BlueList
 ===
 
 The Android-MQA-BlueList sample builds upon the bluelist-base-android sample to integrate with the Mobile Quality Assurance service on BlueMix
